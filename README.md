@@ -32,7 +32,7 @@ const nicks = {
 <p align="left">
   <a href="https://twitter.com/SebaxlvsDeis" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="tecnopolispasto" width="30px" height="40px />
+      alt="SebaxlvsDeis" width="30px" height="40px />
   </a>
   <a href="https://www.facebook.com/noc.gpi/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
